@@ -1,1 +1,7 @@
+# Private configuration files
+Inc/wifi_config.h
+Src/wifi_config.h
+
+# Additional security
+**/wifi_config.h
 /Debug/
