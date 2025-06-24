@@ -22,9 +22,7 @@ A complete IoT weather monitoring system built on STM32F429ZI microcontroller wi
 - **Breadboard and Jumper Wires**
 - **USB Cables** for programming and power
 
-### Optional Components
-- **External Antenna** for ESP32 (for better WiFi range)
-- **Pull-up Resistors** (4.7kΩ) for I2C lines (usually built-in on sensor boards)
+
 
 ## 📋 Hardware Connections
 
